@@ -2,6 +2,8 @@
 
 A feature-complete, interactive browser implementation of the classic Artificial Intelligence benchmark **Wumpus World**. Built using pure HTML5, CSS3, and vanilla JavaScript with zero external dependencies, this project brings the grid-world environment to life with an atmospheric UI, Web Audio API sound synthesis, and a real-time propositional logic inference overlay.
 
+Live Demo:  https://kavinithi-sera.github.io/wumpus-world/
+
 ---
 
 ## 🎮 Key Features

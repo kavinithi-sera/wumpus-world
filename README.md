@@ -63,8 +63,3 @@ wumpus-world/
 └── README.md       # Project documentation
 ```
 
----
-
-## 📜 License
-
-Distributed under the MIT License. 
